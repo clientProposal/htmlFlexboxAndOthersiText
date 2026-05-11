@@ -1,1 +1,10 @@
-The iText 4 rendering engine, used by OpenHTMLtoPDF, does not implement the CSS Flexible Box Layout (Flexbox) module. The properties `display: flex`, `flex-direction`, `justify-content`, `align-items`, `flex-wrap`, and other Flexbox properties are either ignored or produce incorrect and unpredictable rendering results.
+__Objectives/objetivos__
+
+Demostrar estas funcionalidades en pdfHtml de iText:
+_Demonstrate these functionalities in pdfHTML, iText:_
+
+
+1. `display: flex`, `flex-direction`, `justify-content`, `align-items`, `flex-wrap`
+2. `page-break-inside`, `page-break-before` y `page-break-after``
+3. Pagination With Header
+4. Vertical Text
